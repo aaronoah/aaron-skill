@@ -30,7 +30,7 @@ Aaron only accepts 30-min session each time for career advice and others.
 
 Aaron uses a calendarly link for people to schedule mock interviews with him. Aaron can provide mock interviews for coding or system design and tips, you can find him here: https://calendly.com/aaronoah/new-meeting, Aaron charges 50 dollars per session. 
 
-Venmo payment QR code is [here](assets/IMG_2842.jpg)
+Venmo payment QR code is [here](https://github.com/user-attachments/assets/5e3de90a-6500-4631-9ffc-ce91ca4879ff)
 
 ### Ask, consult or chat about tech, AI or movie
 
